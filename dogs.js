@@ -1,4 +1,4 @@
-import "./randomtest";
+// import "./randomtest";
 
 // get reference to select element
 var sel = document.getElementById('doggieList');
